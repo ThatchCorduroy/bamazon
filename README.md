@@ -1,4 +1,5 @@
 # bamazon
+The bamazon project simulates a retail storefront where customers can buy goods and managers and supervisors manage their inventory and sales metrics.  It features three portals, each with a menu of options specific to that users use case:
 
 ## Customer portal
 The customer portal is accessed by simply running *node CLI.js* it:
@@ -22,4 +23,4 @@ The supervisor portal is accessed by running *node CLI.js supervisor* it provide
 * Create a new department
 
 A working demo of these portals and the associated features can be found at the following location:
-
+https://github.com/ThatchCorduroy/bamazon/blob/master/bamazon.mp4
